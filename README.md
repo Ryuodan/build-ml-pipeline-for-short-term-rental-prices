@@ -567,3 +567,7 @@ you have trained your new model on the new data.
 ## License
 
 [License](LICENSE.txt)
+
+## Submission Details
+wandb link https://wandb.ai/ryuodan/nyc_airbnb/?workspace=user-ryuodan
+github link https://github.com/Ryuodan/build-ml-pipeline-for-short-term-rental-prices
